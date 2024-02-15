@@ -26,4 +26,4 @@ while True:
             print("You tried to leave the room but your fingers accidentally pushed the scissors off the table. It sliced through your entire banana.")
             print(f"Average pp length cut off: {150 / (no+1)}cm")
             print(f"Tries survived: {no + 1}")
-            pp = 150
+            pp = 0
